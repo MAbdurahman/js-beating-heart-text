@@ -3,6 +3,8 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -61,5 +63,14 @@ package-lock.json
 
 # Miscellaneous
 .idea
+
+/.idea
+/.vs-code
+.idea/
+.vs-code/
+*.vscode/
+
+debug.log
+
 
 
