@@ -1,3 +1,3 @@
-# Beating-Heart-With-Text-2
+# js-beating-heart-text
 
 ## This repository utilizes Typed.js plugin.
