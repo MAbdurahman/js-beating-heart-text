@@ -11,6 +11,8 @@ $(function () {
         strings: ['I love everything about YOU!',
             'I love everything about YOU!',
             'I cannot get YOU off my mind!',
+            'Everyday I pray for you,',
+            'and sometimes during the night.',
             'I know you are not good for me, ',
             'but I love YOU, anyway&nbsp;&nbsp;&#9892;'
         ],
